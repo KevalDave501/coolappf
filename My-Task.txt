@@ -1,0 +1,13 @@
+i need to build log system in node and react
+
+backend : - api with proper structure
+feature : - in froentend show me all vendors list with their csv or excel file in dropdwon button when user click on perticular vendor file from dropdown insert all records in database .
+-> if records are their in database then okay or else update the database but do not enter duplicate id 
+-> in frontend dropdown should be in dynamic
+-> in backend create vendors folder in vendor folder create multiple vendors if i crteate one folder then show me in frontend dropdown their name i created and put csv or excel file in dropdown
+
+backend should be like :-  controller -> usercontroller , routes -> index.js , utils , vendors -> all vendrors name -> their csv or excel file 
+
+-> in csv or excel file :- id , p_name , p_qunatity , p_price
+
+-> create all apis
